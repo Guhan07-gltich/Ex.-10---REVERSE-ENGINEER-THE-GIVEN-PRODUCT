@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![door handle raw](https://github.com/user-attachments/assets/540fcb99-e504-44b4-ac04-73cdb2bb87c1)
 
 ### Output:
+![WhatsApp Image 2024-11-29 at 09 50 14_3a417ab3](https://github.com/user-attachments/assets/5176d246-f318-4438-9cf8-16ddf70327bc)
 
 
-### Name:
-### Register Number:
+### Name: GUHAN B
+### Register Number: 24900790
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
